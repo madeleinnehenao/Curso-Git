@@ -5,3 +5,4 @@
 3. Deku
 4. Todoroki
 5. Ichigo
+6. Naruto
