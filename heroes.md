@@ -1,8 +1,6 @@
 # Heroes cheveres
 
-1. Wolverine
-2. Batman
-3. Deku
-4. Todoroki
-5. Ichigo
-6. Naruto
+1. Deku
+2. Todoroki
+3. Ichigo
+4. Naruto
