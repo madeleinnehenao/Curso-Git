@@ -4,3 +4,4 @@
 2. Batman
 3. Deku
 4. Todoroki
+5. Ichigo
