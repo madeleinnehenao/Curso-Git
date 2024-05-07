@@ -7,3 +7,4 @@ Aqui estaran mis animes favoritos:
 3. Bleach.
 4. Kuroshitsuji
 5. One piece.
+6. Bungou stray dogs
